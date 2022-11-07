@@ -27,4 +27,5 @@ This project is a basic Unity Tutorial for handling virtual reality through the 
 ![image](https://user-images.githubusercontent.com/57419892/200390125-50ab106b-3584-461b-8bd0-fad13be7b713.png)
 ![image](https://user-images.githubusercontent.com/57419892/200390187-0306c2f4-7427-4890-a627-b7ff8894bfde.png)
 ![image](https://user-images.githubusercontent.com/57419892/200390228-126bac08-d98b-4f5d-b3c9-da9ae55ce2a8.png)
-![image](https://user-images.githubusercontent.com/57419892/200390261-09cbb5b7-52bf-4760-8aea-e2069b31ad31.png)
+![image](https://user-images.githubusercontent.com/57419892/200390485-12e9449a-6b92-4e2e-a34c-833d17a56d8c.png)
+

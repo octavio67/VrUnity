@@ -18,6 +18,8 @@ This project is a basic Unity Tutorial for handling virtual reality through the 
 - git clone --branch main https://github.com/octavio67/VrUnity.git, them you get a 'VrUnity' folder that contains an Unity Project
 
 - Open UnityHub and select "Open-add project from disk" to find and open your recent Unity Proyect upload from Git
+
+- Select File-Open Scene from menu and Select Scene Folder and then "OctavioRoom" scene. Run the unity project from your Unity Editor
           
 
 ***INGAME SCREENSHOTS***
